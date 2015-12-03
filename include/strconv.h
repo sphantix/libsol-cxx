@@ -1,12 +1,12 @@
 /*
- * File Name: string.h
+ * File Name: strconv.h
  * Author: Sphantix
  * Mail: sphantix@gmail.com
  * Created Time: Thu 03 Dec 2015 08:39:34 AM CST
  */
 
-#ifndef __STRING_H__
-#define __STRING_H__
+#ifndef __STRCONV_H__
+#define __STRCONV_H__
 
 #include <string>
 #include <cctype>
@@ -66,4 +66,4 @@ namespace sol
     }
 }
 
-#endif /* __STRING_H__ */
+#endif /* __STRCONV_H__ */
